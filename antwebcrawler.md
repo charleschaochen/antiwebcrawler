@@ -113,3 +113,5 @@ Redis用于做日志缓冲，第二个logStash用于写日志到Elastic。
 此文更多是我们所做工作的一个高度总结，其中有很多细节没有展开详解(本人也就花了一个小时一气呵成)。
 
 如果有任何问题，欢迎联系我们(wangtianqing01@chinatopcredit.com)。
+
+微信：Grissom_sh
